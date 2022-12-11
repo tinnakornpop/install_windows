@@ -1,7 +1,7 @@
 # Check Key Windows
-1. กดปุ่ม "Windows + R"
-2. พิมพ์ "cmd" + "Enter"
-3. รันคำสั่งในหน้า "Command Prompt" ตามนี้
+1. กดปุ่ม `Windows` + `R`
+2. พิมพ์ `cmd` + `Enter`
+3. รันคำสั่งในหน้า Command Prompt ตามนี้
 ```
 wmic path softwarelicensingservice get OA3xOriginalProductKey
 ```
