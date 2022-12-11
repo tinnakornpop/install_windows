@@ -9,12 +9,13 @@ wmic path softwarelicensingservice get OA3xOriginalProductKey
 4. หากคอมพิวเตอร์ของเรามี OEM License ก็จะแสดง Product Key ขึ้นมา
 
 
-## Install Windows
-### ดาวน์โหลด Windows
->> ดาวน์โหลดเครื่องมือทันที
+# Install Windows
+## ดาวน์โหลด Windows
+- เข้ามาหน้าดาวน์โหลด Windows ที่ต้องการ
+- คลิก `ดาวน์โหลดเครื่องมือทันที`
 
-### Install
->> เปิดโปรแกรม
->> Accept
->> Create installation media (USB flash drive, DVD, or ISO file) for another PC
->> Next
+## Install
+- เปิดโปรแกรมที่ดาวน์โหลดมา
+- คลิก `Accept`
+- Create installation media (USB flash drive, DVD, or ISO file) for another PC
+- Next
