@@ -29,7 +29,7 @@ wmic path softwarelicensingservice get OA3xOriginalProductKey
 
 
 # Install Windows
-Boot to `USB Flash Drive`
+- Boot to `USB Flash Drive`
 
 ## หน้า Windows Setup
 - Language to install: `English (United States)` (Default)
