@@ -5,6 +5,8 @@
 
 ## Create ISO to USB
 - คลิก `Accept`
+- Create installation media (USB flash drive, DVD, or ISO file) for another PC
+- คลิก `Next`
 - คลิก `Next` (หากต้องการ Windows ภาษาไทย ให้ติ๊ก ✅ ออก แล้วเลือกภาษาไทยที่แท็บ Language)
 - เลือก `USB Flash Drive`
 - คลิก `Next`
@@ -12,6 +14,8 @@
 
 ## Create ISO to PC
 - คลิก `Accept`
+- Create installation media (USB flash drive, DVD, or ISO file) for another PC
+- คลิก `Next`
 - คลิก `Next` (หากต้องการ Windows ภาษาไทย ให้ติ๊ก ✅ ออก แล้วเลือกภาษาไทยที่แท็บ Language)
 - เลือก `ISO file`
 - คลิก `Next`
