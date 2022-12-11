@@ -1,8 +1,12 @@
 # Check Key Windows
-1. กดปุ่ม `Windows` + `R`
-2. พิมพ์ `cmd` + `Enter`
-3. รันคำสั่งในหน้า Command Prompt ตามนี้
+## Check for Command
+- กดปุ่ม `Windows` + `R`
+- พิมพ์ `cmd` + `Enter`
+- รันคำสั่งในหน้า Command Prompt ตามนี้
 ```
 wmic path softwarelicensingservice get OA3xOriginalProductKey
 ```
-4. หากคอมพิวเตอร์ของเรามี OEM License ก็จะแสดง Product Key ขึ้นมา
+- หากคอมพิวเตอร์ของเรามี OEM License ก็จะแสดง Product Key ขึ้นมา
+
+## Check for Program
+- Download: <a href="https://software.thaiware.com/14600-ShowKeyPlus-Download.html">ShowKeyPlus</a>
