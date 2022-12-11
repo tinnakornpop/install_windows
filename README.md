@@ -11,8 +11,8 @@ wmic path softwarelicensingservice get OA3xOriginalProductKey
 # Install Windows
 ## Download
 - ดาวน์โหลด Windows ที่ต้องการ
-  - <a href="https://www.microsoft.com/en-gb/software-download/windows10">Windows 10</a>: Create Windows 10 installation media => `Download tool now`
-  - <a href="https://www.microsoft.com/en-gb/software-download/windows11">Windows 11</a>: Create Windows 11 Installation Media > `Download Now`
+  - <a href="https://www.microsoft.com/en-gb/software-download/windows10">Windows 10</a>: Create Windows 10 installation media >> `Download tool now`
+  - <a href="https://www.microsoft.com/en-gb/software-download/windows11">Windows 11</a>: Create Windows 11 Installation Media >> `Download Now`
 
 
 ## Install
