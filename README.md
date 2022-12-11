@@ -1,5 +1,4 @@
 # Check Key Windows
-
 1. กดปุ่ม "Windows + R"
 2. พิมพ์ "cmd" + "Enter"
 3. รันคำสั่งในหน้า "Command Prompt" ตามนี้
@@ -10,9 +9,10 @@ wmic path softwarelicensingservice get OA3xOriginalProductKey
 
 
 # Install Windows
-## ดาวน์โหลด Windows
+## Download
 - เข้ามาหน้าดาวน์โหลด Windows ที่ต้องการ
 - คลิก `ดาวน์โหลดเครื่องมือทันที`
+
 
 ## Install
 - เปิดโปรแกรมที่ดาวน์โหลดมา
